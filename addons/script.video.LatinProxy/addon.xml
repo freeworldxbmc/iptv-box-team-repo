@@ -2,7 +2,7 @@
 <addon id="script.video.LatinProxy"
 	     name="LatinProxy"
 	     version="1.0.3"
-	     provider-name="IPTV Box Team">
+	     provider-name="Medieval">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>

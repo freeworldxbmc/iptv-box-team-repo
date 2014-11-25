@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.latinTester" version="1.0.3" name="latinTester" provider-name="IPTV Box Team">
+<addon id="plugin.video.latinTester" version="1.0.3" name="latinTester" provider-name="Medieval">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.video.LatinProxy" version="1.0.0"/>
