@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.iptvbox.tv"
        name="IPTVBoxTV"
-       version="1.0.1"
+       version="1.0.2"
        provider-name="IPTV Box Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -22,7 +22,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.latinTester" version="1.0.3" name="latinTester" provider-name="Medieval">
+<addon id="plugin.video.latinTester" version="1.0.4" name="latinTester" provider-name="IPTV Latinoamerica Team">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.video.LatinProxy" version="1.0.0"/>
@@ -79,8 +79,8 @@
 
 <addon id="script.video.LatinProxy"
 	     name="LatinProxy"
-	     version="1.0.3"
-	     provider-name="Medieval">
+	     version="1.0.4"
+	     provider-name="IPTV Latinoamerica Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>

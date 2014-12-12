@@ -1,4 +1,9 @@
 [B]Version 1.0.0[/B]
 - Initial Release
+
 [B]Version 1.0.1[/B]
-- Icons updated
+- Icon updated
+
+
+[B]Version 1.0.4[/B]
+- New developer
