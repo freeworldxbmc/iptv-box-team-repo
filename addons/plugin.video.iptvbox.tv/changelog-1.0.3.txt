@@ -1,3 +1,6 @@
+Version 1.0.3
+Performance improvements
+
 Version 1.0.2
 Domain change
 
