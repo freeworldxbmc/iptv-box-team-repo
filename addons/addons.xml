@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.iptvbox.tv"
        name="IPTVBoxTV"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="IPTV Box Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
