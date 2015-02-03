@@ -1,0 +1,15 @@
+Version 1.1.0
+Security improvements
+
+Version 1.0.3
+Performance improvements
+
+Version 1.0.2
+Domain change
+
+Version 1.0.1
+Code improvement
+
+Version 1.0.0
+First Launch
+

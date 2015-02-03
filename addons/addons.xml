@@ -29,6 +29,64 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.iptvbox.tv.azul"
+       name="IPTVBoxTV Azul"
+       version="1.1.0"
+       provider-name="IPTV Box Team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>IPTV Box TV</summary>
+    <description>
+        SOMOS IPTV BOX TV TEAM, BIENVENIDO! DISFRUTA NUESTRO SERVICIO!!
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.iptvbox.tv.rojo"
+       name="IPTVBoxTV Rojo"
+       version="1.1.0"
+       provider-name="IPTV Box Team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>IPTV Box TV</summary>
+    <description>
+        SOMOS IPTV BOX TV TEAM, BIENVENIDO! DISFRUTA NUESTRO SERVICIO!!
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.latinTester" version="1.0.4" name="latinTester" provider-name="IPTV Latinoamerica Team">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
